@@ -1,12 +1,12 @@
 ---
 title: tout ce qu'il faut savoir
 description: Exploration
-image_url: https://raw.githubusercontent.com/walkingdev/brouillards-boussoles/master/brouillards-boussoles-header-2.jpg
+image_url: http://brouillardsetboussoles.fr/wp-content/uploads/2017/01/cropped-foggy-1.jpg
 ---
 
-# Session WalkingDev Jeux créatifs
+# Session WalkingDev 
 
-![](https://raw.githubusercontent.com/walkingdev/brouillards-boussoles/master/brouillards-boussoles-header-2.jpg)
+![](http://brouillardsetboussoles.fr/wp-content/uploads/2017/01/cropped-foggy-1.jpg)
 
 ## On va faire quoi ?
 
@@ -17,11 +17,11 @@ Les ateliers se déroulent en groupe pour vous apporter un regard juste et bienv
 Grâce à un univers empruntant les codes du genre fantastique, vous travaillez en profondeur sur vos projet, avec un regard décalé et créatif.
 
 A la fin de l'aventure, vous aurez : 
-- identifié des compétences importantes, acquises et préférées
-- fait une synthèse de votre parcours, de vos aspirations et des valeurs qui vous portent
-- trouvé des pistes pour nourrir et développer mes projets
-- donné un nouveau dynamisme à vos projets  et débloqué des solutions
-- décidé d'une voie dans laquelle vous engager et commencé votre premier petit pas !
+     - identifié des compétences importantes, acquises et préférées
+     - fait une synthèse de votre parcours, de vos aspirations et des valeurs qui vous portent
+     - trouvé des pistes pour nourrir et développer mes projets
+     - donné un nouveau dynamisme à vos projets  et débloqué des solutions
+     - décidé d'une voie dans laquelle vous engager et commencé mon premier petit pas !
 
 ## Comment ça se passe ?
 
