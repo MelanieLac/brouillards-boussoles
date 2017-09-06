@@ -54,9 +54,8 @@ ou en appelant Fanny au 06 18 99 48 83
 
 ## Ça coûte combien cette petite escapade ?
 
-Repas, thé, café : prix fixe de 15 € / jour
-Coût pédagogique : participation consciente
-(chacun donne ce qui lui semble juste en fin de journée)
+Repas, thé, café : prix fixe de 20 € / jour
+Coût pédagogique : participation consciente, c'est à dire que chacun donne ce qui lui semble juste en fin de journée.
 
 
 
