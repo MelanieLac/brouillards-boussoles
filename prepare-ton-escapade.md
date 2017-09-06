@@ -9,11 +9,11 @@ image_url:
 ## Ta préparation
 
 - Chaussures confortable pour marcher
+- Une tenue pour marcher et éventuellement s'asseoir par terre
 - Noisettes ou abricots secs
 - Bouteille d’eau
 
 ## Préparation des organisateurs
 
-
-* 1 trousse : marqueurs, post-it, crayons, papiers,
+* 1 trousse : marqueurs, post-it, crayons, papiers...
 * 2 bouteilles d’eau
